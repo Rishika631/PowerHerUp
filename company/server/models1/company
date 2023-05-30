@@ -1,0 +1,25 @@
+const mongoose = require("mongoose");
+
+const companySchema = new mongoose.Schema({
+  company: {
+    type: String,
+    required: true,
+  },
+  wp: {
+    type: String,
+    required: true,
+  },
+  review: {
+    type: String,
+    required: true,
+  },
+  score: {
+    type: Number,
+    required: false,
+  },
+});
+
+const companyModel = mongoose.model("user", companySchema);
+module.exports = companyModel;
+
+
