@@ -1,0 +1,981 @@
+[{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8f5"
+  },
+  "Sreet": "akbar road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8f6"
+  },
+  "Sreet": "aruna asaf ali marg",
+  "road": "district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8f7"
+  },
+  "Sreet": "ashram chowk",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8f8"
+  },
+  "Sreet": "bahadur shah zafar marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8f9"
+  },
+  "Sreet": "barakhamba road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8fa"
+  },
+  "Sreet": "delhi gurgaon expressway",
+  "road": "expressway",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8fb"
+  },
+  "Sreet": "dnd flyway",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8fc"
+  },
+  "Sreet": "dr apj abdul kalam road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8fd"
+  },
+  "Sreet": "eastern peripheral expressway",
+  "road": "expressway",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8fe"
+  },
+  "Sreet": "faridabad-noida-ghaziabad expressway",
+  "road": "expressway",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc8ff"
+  },
+  "Sreet": "grand trunk road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc900"
+  },
+  "Sreet": "iit flyover",
+  "road": "flyover",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc901"
+  },
+  "Sreet": "inner ring road",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc902"
+  },
+  "Sreet": "janpath road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc903"
+  },
+  "Sreet": "kashmiri gate",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc904"
+  },
+  "Sreet": "lodhi road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc905"
+  },
+  "Sreet": "lok kalyan marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc906"
+  },
+  "Sreet": "mathura road",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc907"
+  },
+  "Sreet": "outer ring road",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc908"
+  },
+  "Sreet": "mansingh road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc909"
+  },
+  "Sreet": "motilal nehru road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90a"
+  },
+  "Sreet": "maulana azad road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90b"
+  },
+  "Sreet": "krishna menon road",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90c"
+  },
+  "Sreet": "tughlaq road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90d"
+  },
+  "Sreet": "tees january marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90e"
+  },
+  "Sreet": "delhi ring road",
+  "road": "Ring road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc90f"
+  },
+  "Sreet": "shahjahan road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc910"
+  },
+  "Sreet": "humayun road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc911"
+  },
+  "Sreet": "prithviraj road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc912"
+  },
+  "Sreet": "mustafa kemal ataturk marg",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc913"
+  },
+  "Sreet": "safdarjung road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc914"
+  },
+  "Sreet": "national highway 1",
+  "road": "national highway",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc915"
+  },
+  "Sreet": "national highway 2",
+  "road": "national highway",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc916"
+  },
+  "Sreet": "national highway 8",
+  "road": "national highway",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc917"
+  },
+  "Sreet": "national highway 10",
+  "road": "national highway",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc918"
+  },
+  "Sreet": "national highway 24",
+  "road": "national highway",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc919"
+  },
+  "Sreet": "nizamuddin bridge",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91a"
+  },
+  "Sreet": "ito flyover",
+  "road": "flyover",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91b"
+  },
+  "Sreet": "old hanuman mandir/ iron bridge/old delhi xing/ yamuna bazar bridge",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91c"
+  },
+  "Sreet": "isbt kashmere gate flyover",
+  "road": "flyover",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91d"
+  },
+  "Sreet": "azadpur bridge",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91e"
+  },
+  "Sreet": "wazirpur bridge",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc91f"
+  },
+  "Sreet": "madhuman chowk underpass",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc920"
+  },
+  "Sreet": "britannia chowk flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc921"
+  },
+  "Sreet": "punjabi bagh flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc922"
+  },
+  "Sreet": "moti nagar flyover",
+  "road": "flyover",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc923"
+  },
+  "Sreet": "shivaji place district centre flyover",
+  "road": "flyover",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc924"
+  },
+  "Sreet": "mayapuri flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc925"
+  },
+  "Sreet": "kirti nagar flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc926"
+  },
+  "Sreet": "naraina bridge",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc927"
+  },
+  "Sreet": "dhaula kuan",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc928"
+  },
+  "Sreet": "motibagh flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc929"
+  },
+  "Sreet": "africa avenue flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92a"
+  },
+  "Sreet": "saronjini nagar flyover",
+  "road": "flyover",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92b"
+  },
+  "Sreet": "aiims flyover complex",
+  "road": "flyover",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92c"
+  },
+  "Sreet": "bhishm pitamah marg xing",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92d"
+  },
+  "Sreet": "august kranti marg xing",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92e"
+  },
+  "Sreet": "south extension xing",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc92f"
+  },
+  "Sreet": "moolchand flyover",
+  "road": "flyover",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc930"
+  },
+  "Sreet": "defence colony underpass",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc931"
+  },
+  "Sreet": "lajpat nagar flyover",
+  "road": "flyover",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc932"
+  },
+  "Sreet": "nehru nagar bridge",
+  "road": "district",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc933"
+  },
+  "Sreet": "ajmal khan road",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc934"
+  },
+  "Sreet": "amrita shergil marg",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc935"
+  },
+  "Sreet": "baba kharak singh marg",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc936"
+  },
+  "Sreet": "balwant rai mehta lane",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc937"
+  },
+  "Sreet": "dr bishambar das marg",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc938"
+  },
+  "Sreet": "jawahar lal nehru marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc939"
+  },
+  "Sreet": "kasturba gandhi marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93a"
+  },
+  "Sreet": "rafi marg",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93b"
+  },
+  "Sreet": "rajaji marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93c"
+  },
+  "Sreet": "rajesh pilot marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93d"
+  },
+  "Sreet": "sardar patel marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93e"
+  },
+  "Sreet": "subramania bharti marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc93f"
+  },
+  "Sreet": "thyagaraja marg",
+  "road": "district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc940"
+  },
+  "Sreet": "tilak marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc941"
+  },
+  "Sreet": "tolstoy marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc942"
+  },
+  "Sreet": "vivekanand marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc943"
+  },
+  "Sreet": "haneef uddin marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc944"
+  },
+  "Sreet": "maharaja agrasen road",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc945"
+  },
+  "Sreet": "alexander m. kadakin marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc946"
+  },
+  "Sreet": "andr� malraux marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc947"
+  },
+  "Sreet": "bhai vir singh marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc948"
+  },
+  "Sreet": "chlemsford road",
+  "road": "major distict road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc949"
+  },
+  "Sreet": "connaught lane",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94a"
+  },
+  "Sreet": "dara shikoh road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94b"
+  },
+  "Sreet": "gamal abdel nasser marg",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94c"
+  },
+  "Sreet": "hailey road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94d"
+  },
+  "Sreet": "indira chowk",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94e"
+  },
+  "Sreet": "jai singh marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc94f"
+  },
+  "Sreet": "justice s.b. road",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc950"
+  },
+  "Sreet": "justice sunanda bhandare marg",
+  "road": "district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc951"
+  },
+  "Sreet": "kwame nkrumah marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc952"
+  },
+  "Sreet": "maharshi raman marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc953"
+  },
+  "Sreet": "archbishop makarios marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc954"
+  },
+  "Sreet": "mohammad ali jauhar marg",
+  "road": "district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc955"
+  },
+  "Sreet": "mother teresa crescent",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc956"
+  },
+  "Sreet": "motilal nehru marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc957"
+  },
+  "Sreet": "mustafa kemal ataturk marg",
+  "road": "district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc958"
+  },
+  "Sreet": "najaf khan road",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc959"
+  },
+  "Sreet": "nelson mandela road",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95a"
+  },
+  "Sreet": "rajiv chowk",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95b"
+  },
+  "Sreet": "rao tula ram marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95c"
+  },
+  "Sreet": "dr zakir hussain marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95d"
+  },
+  "Sreet": "sham nath marg",
+  "road": "district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95e"
+  },
+  "Sreet": "rani jhansi road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc95f"
+  },
+  "Sreet": "ansari road",
+  "road": "district",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc960"
+  },
+  "Sreet": "netaji subhash marg",
+  "road": "district",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc961"
+  },
+  "Sreet": "swami shradhanand marg",
+  "road": "district",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc962"
+  },
+  "Sreet": "benito juarez marg",
+  "road": "district",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc963"
+  },
+  "Sreet": "khan abdul ghaffar khan marg",
+  "road": "district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc964"
+  },
+  "Sreet": "bangla sahib marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc965"
+  },
+  "Sreet": "kali marg",
+  "road": "district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc966"
+  },
+  "Sreet": "mandir marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc967"
+  },
+  "Sreet": "teen murti marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc968"
+  },
+  "Sreet": "mehrauli badarpur road",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc969"
+  },
+  "Sreet": "aurbindo marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96a"
+  },
+  "Sreet": "mahipalpur mehrauli road",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96b"
+  },
+  "Sreet": "mehrauli  gurgaon road",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96c"
+  },
+  "Sreet": "ho chi minh marg",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96d"
+  },
+  "Sreet": "lala lajpat rai marg",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96e"
+  },
+  "Sreet": "lal bahadur shastri marg",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc96f"
+  },
+  "Sreet": "shanti path",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc970"
+  },
+  "Sreet": "pusa road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc971"
+  },
+  "Sreet": "cariappa marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc972"
+  },
+  "Sreet": "simon bolivar marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc973"
+  },
+  "Sreet": "raisina road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc974"
+  },
+  "Sreet": "siri fort marg",
+  "road": "major district road",
+  "safety": "0"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc975"
+  },
+  "Sreet": "vandematram marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc976"
+  },
+  "Sreet": "shankar road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc977"
+  },
+  "Sreet": "k b hedgewar marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc978"
+  },
+  "Sreet": "anuvpat marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc979"
+  },
+  "Sreet": "najafgarh road",
+  "road": "major district road",
+  "safety": "2"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97a"
+  },
+  "Sreet": "swarna jayanti marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97b"
+  },
+  "Sreet": "zorawar singh marg",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97c"
+  },
+  "Sreet": "vinay marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97d"
+  },
+  "Sreet": "race course road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97e"
+  },
+  "Sreet": "ashoka road",
+  "road": "major district road",
+  "safety": "3"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc97f"
+  },
+  "Sreet": "sree vinayaka mandir marg",
+  "road": "major district road",
+  "safety": "1"
+},{
+  "_id": {
+    "$oid": "640412cd127c48128f6bc980"
+  },
+  "Sreet": "kautilya marg",
+  "road": "major district road",
+  "safety": "1"
+}]
